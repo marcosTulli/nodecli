@@ -1,5 +1,5 @@
 const Configstore = require('configstore');
-const keytar = require('keytar');
+const keytar = require('keytar-prebuild');
 const inquirer = require('inquirer');
 
 class CredentialManager {
