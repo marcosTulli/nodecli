@@ -1,0 +1,20 @@
+Node: 8.0
+commander.js: 2.14.1
+inquirrer.js: 4.0.1
+keytar: 4.2.1
+
+Access Token: 312381673-m3lhLtC8MAlD0wU6VPaMhARByNuiWCzooMSGjtRX
+
+Access Token Secret: Gd30uKHiCLG5Ll9dLPIJ8ChxmHKqW01SS827vwCc2ed5T
+
+Bearer Token: AAAAAAAAAAAAAAAAAAAAAPZXqAEAAAAA9psyl1k5z6izxmkuYhF6bTM%2Fr%2BU%3D5xLul62e3wZBCaXsqYaUIep4TfGgjvxX6pKusDROJSk8LPybZU
+
+API Key: ****YrodGi
+
+OAuth Client ID: T1ZVcFprSF8yLVJTRzE1VDRmZTM6MTpjaQ
+
+OAuth Client Secret: AAvizp1QdOj-4PkBUgbyvRnbczlDPwp26egNbjj30PetjBcOSR
+
+
+
+Client Secrete, again: AAvizp1QdOj-4PkBUgbyvRnbczlDPwp26egNbjj30PetjBcOSR
