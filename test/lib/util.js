@@ -1,14 +1,14 @@
-const inquirer = require('inquirer');
-const sinon = require('sinon');
 const chai = require('chai');
 const expect = chai.expect;
-const chaiAsPromised = require('chai-as-promised');
-const dirtyChai = require('dirty-chai');
-const CredentialManager = require('../../lib/credential-manager');
-const path = require('path');
-const fs = require('fs');
-const configure = require('../../commands/configure');
 const util = require('../../lib/util');
+const dirtyChai = require('dirty-chai');
+// const inquirer = require('inquirer');
+// const sinon = require('sinon');
+// const chaiAsPromised = require('chai-as-promised');
+// const CredentialManager = require('../../lib/credential-manager');
+// const path = require('path');
+// const fs = require('fs');
+// const configure = require('../../commands/configure');
 
 chai.use(dirtyChai);
 
