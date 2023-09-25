@@ -7,7 +7,7 @@
     "twine": "./bin/twine.js"
   },
   "scripts": {
-    "test": "mocha --recursive"
+    "test": "nyc mocha --recursive"
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,7 @@
     "chai-as-promised": "^7.1.1",
     "dirty-chai": "^2.0.1",
     "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
     "sinon": "^16.0.0"
   }
 }
